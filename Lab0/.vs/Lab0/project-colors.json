@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c97f26f-290b-4a99-823a-92e6ea847d24": {
+      "ProjectGuid": "0c97f26f-290b-4a99-823a-92e6ea847d24",
+      "DisplayName": "ComputingServerDet",
+      "ColorIndex": 0
+    },
+    "e7c04642-b7cf-448a-9e5c-8e30d7133164": {
+      "ProjectGuid": "e7c04642-b7cf-448a-9e5c-8e30d7133164",
+      "DisplayName": "ComputingServerMatrixAdditions",
+      "ColorIndex": 1
+    },
+    "4ec105ea-4254-4ce4-8472-b98c360fbd0a": {
+      "ProjectGuid": "4ec105ea-4254-4ce4-8472-b98c360fbd0a",
+      "DisplayName": "DistributeServer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8a81351e-222e-4889-8a52-db6c4f3d14c2": {
+      "ProjectGuid": "8a81351e-222e-4889-8a52-db6c4f3d14c2",
+      "DisplayName": "ComputingServerMinor",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
