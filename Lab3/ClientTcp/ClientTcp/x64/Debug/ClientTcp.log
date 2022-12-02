@@ -1,0 +1,4 @@
+﻿  ClientTcp.cpp
+C:\Users\Оля\Desktop\4 курс\ПСП\ЛР №3\ClientTcp\ClientTcp\ClientTcp.cpp(64,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Оля\Desktop\4 курс\ПСП\ЛР №3\ClientTcp\ClientTcp\ClientTcp.cpp(66,20): warning C4101: s2: неиспользованная локальная переменная
+  ClientTcp.vcxproj -> C:\Users\Оля\Desktop\4 курс\ПСП\ЛР №3\ClientTcp\x64\Debug\ClientTcp.exe
