@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+oDQ9eWyyVf+kAbD144pqeWzhb3IWRLxMwpSTeNkL2PAIpb9S8rrGAdbtgzMAlwA1qzNrYBDomYkijOBZuzZtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aliaksandr_Karneyeu\\source\\Study\\PSP\\Lab0\\ComputingServerMinor\\ComputingServerMinor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aliaksandr_Karneyeu\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Aliaksandr_Karneyeu\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Aliaksandr_Karneyeu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
